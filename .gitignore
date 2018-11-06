@@ -1,0 +1,5 @@
+*.svn
+application/config/database.php
+file/*
+cache/*
+dbninja/*
